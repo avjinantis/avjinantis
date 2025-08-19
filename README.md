@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Avjin 👋
 
-<!--
-**avjinantis/avjinantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m just starting my journey in tech.  
+💻 Learning Git, GitHub, and Python step by step.  
+🛡️ Curious about Cybersecurity and Computers.  
+🎮 I enjoy playing Valorant and football.  
+⚡ I believe every pro was once a beginner.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My 2025 Goals
+- Learn Git & GitHub properly  
+- Build and share my first project  
+- Improve in Python  
+- Explore the basics of Cybersecurity  
