@@ -46,6 +46,13 @@ My inaugural mission into the world of web development. This project was a found
     <img src="https://img.shields.io/badge/Deploy_Project-YouTube_Clone-red?style=for-the-badge&logo=youtube" alt="View YouTube Clone Project"/>
   </a>
 </p>
+<p align="center"> 
+  <a href="https://github.com/avjinantis/Simple_projects"> 
+    <img src="https://img.shields.io/badge/Deploy_Project-Simple_projects-blue?style=for-the-badge&logo=python" 
+         alt="View Project"/> 
+  </a> 
+</p>
+
 
 ---
 
