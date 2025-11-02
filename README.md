@@ -79,9 +79,10 @@ My inaugural mission into the world of web development. This project was a found
 ### 📊 GitHub Intelligence Report
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avjinantis&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="Avjin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avjinantis&layout=compact&theme=dracula&hide_border=true" alt="Avjin's Top Languages" />
+  <img src="https://github-readme-stats-avjin.vercel.app/api?username=avjinantis&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" alt="Avjin's GitHub Stats" />
+  <img src="https://github-readme-stats-avjin.vercel.app/api/top-langs/?username=avjinantis&layout=compact&theme=dracula&hide_border=true" alt="Avjin's Top Languages" />
 </p>
+
 
 ---
 
